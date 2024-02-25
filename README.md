@@ -9,6 +9,9 @@ Output: Python matplotlib or Paraview
 - Plane stress and plane strain triangular elements - Quadratic
 - Plane truss elements
 
+- Selfmade datastructure library
+- Triangle by Shewchuk (2005) used for meshing
+
 # + Aplication code:
 ## GATTO: Genetic Algorithm for Truss Topology Optimization
 Genetic algorithm developed for optimal truss design using the finite element code
